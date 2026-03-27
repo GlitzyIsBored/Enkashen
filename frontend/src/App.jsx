@@ -1,4 +1,4 @@
-import PlayerData from "./components/playerData";
+import PlayerData from "./components/PlayerData";
 
 const App = () => {
   return (
